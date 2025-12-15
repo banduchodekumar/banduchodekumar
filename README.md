@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and web development
 - 🌱 I’m currently learning meachine learning
 - 💞️ I’m looking to collaborate on developers
-- 📫 How to reach me in linkdin and profile is banduchode kumar
+- 📫 Reach me in linkdin and profile is banduchode kumar
 - 😄 Pronouns: kumar
 
 <!---
